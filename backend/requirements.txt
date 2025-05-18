@@ -11,4 +11,3 @@ urllib3
 json
 asyncio
 requests
- .\venv310\Scripts\Activate.ps1
